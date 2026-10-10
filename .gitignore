@@ -1,0 +1,16 @@
+# Scala / sbt
+target/
+.metals/
+.bsp/
+.bloop/
+.scala-build/
+
+# IDE
+.idea/
+.vscode/
+
+# Compiled files
+*.class
+
+# System files
+.DS_Store
